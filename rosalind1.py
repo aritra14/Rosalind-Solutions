@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Counting DNA Nucleotides
-"""
+# Counting DNA Nucleotides
+
 dna=input(' Enter the nucleotide sequence ')
 dna=dna.upper();
 acount=dna.count('A',0,len(dna));
